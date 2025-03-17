@@ -1,10 +1,14 @@
-#  Musings
 
-We come across a ton of information everyday but oftentimes can’t be bothered to jot things down. Whether it’s reading or skimming the news, we inevitably find words or passages we want to save or look up later. Writing it down or retyping it is not very efficient, and taking a photo does not help with searching for it. And relying on memory often leads to the struggle of recalling the details hours or days later. Musing was created to solve this problem. Musing leverages VisionKit to extract the information you come across and allows you to get reminders for it later. You can also include notes, or rather your musings, along with the information source. 
-
+<p>
 <img align="left" src="imgs/ss.png" width="200" >
 <img align="left" src="imgs/ss1.png" width="200" >
 <img src="imgs/ss3.png" width="200" >
+
+</p>
+
+## Musings
+
+We come across a ton of information everyday but oftentimes can’t be bothered to jot things down. Whether it’s reading or skimming the news, we inevitably find words or passages we want to save or look up later. Writing it down or retyping it is not very efficient, and taking a photo does not help with searching for it. And relying on memory often leads to the struggle of recalling the details hours or days later. Musing was created to solve this problem. Musing leverages VisionKit to extract the information you come across and allows you to get reminders for it later. You can also include notes, or rather your musings, along with the information source. 
 
 ## App Features
 - Add text snippets manually or using camera to automatically extract 
