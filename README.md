@@ -4,7 +4,6 @@ We come across a ton of information everyday but oftentimes can’t be bothered 
 
 <img align="left" src="imgs/ss.png" width="200" >
 <img align="left" src="imgs/ss1.png" width="200" >
-<img align="left"src="imgs/ss2.png" width="200" >
 <img src="imgs/ss3.png" width="200" >
 
 ## App Features
