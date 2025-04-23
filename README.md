@@ -2,7 +2,6 @@
 <p>
 <img align="left" src="imgs/ss.png" width="200" >
 <img align="left" src="imgs/ss1.png" width="200" >
-<img src="imgs/ss3.png" width="200" >
 
 </p>
 
